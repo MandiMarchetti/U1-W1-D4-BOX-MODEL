@@ -1,0 +1,102 @@
+/* IMPOSTAZIONI GENERALI */
+
+
+body{
+    background-image: url(../img/sfondo.png);
+    background-size: 250%;
+    background-repeat: repeat;
+    background-position: center;
+    
+
+
+}
+/* HEADER */
+
+.header{
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    background-color: #117788;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: white;
+    margin: 25px 15px 25px 15px;
+    
+}
+
+.a{
+    text-align: center;
+    margin-bottom: -12px;
+    margin-top: 0px;
+}
+.b{
+    text-align: center;
+    margin-bottom: -12px;
+    
+}
+
+/* MAIN */
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+h1{
+    style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif"
+    font-size: 29px;
+    text-align:start;
+}
+h2{
+    style="font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif"
+    font-size: 20px;
+}
+
+.mainbloco{
+    padding: 20px 10px 20px 10px;
+    margin: 25px 15px 25px 15px;
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+.subtitle{
+    margin-bottom: 0px;
+    font-size: 15px;
+
+
+}
+
+aside{
+    padding: 0px 10px 20px 10px;
+    margin: 25px 15px 25px 15px;
+    background-color: white;
+    margin-top: 0px;
+
+
+}
+
+article{
+   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+   font-size: 15px;
+}
+
+caption{
+    text-align: center;
+    font-style: italic;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size: small;
+}
+
+.novita{
+
+}
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
